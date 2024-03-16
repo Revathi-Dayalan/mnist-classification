@@ -38,7 +38,7 @@ Evaluate the trained model's performance on the test set by plotting training/va
 ### Name:Revathi.D
 ### Register Number:21222
 
-
+~~~
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
@@ -122,16 +122,19 @@ x_single_prediction1 = np.argmax(
     model.predict(img_28_gray_inverted_scaled1.reshape(1,28,28,1)),
      axis=1)
 print(x_single_prediction1)
-
-## OUTPUT
-
+~~~
+### OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/02e1ebe2-0ed4-4f27-b435-b73579674581)
+
+![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/008f1f36-522c-4aa0-be0a-ab85480ad0b8)
+
 
 ### Classification Report
 
-Include Classification Report here
+![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/4d227ac6-307d-42c8-9508-adea529bccea)
+
 
 ### Confusion Matrix
 
