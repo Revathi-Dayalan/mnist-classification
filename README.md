@@ -138,11 +138,15 @@ print(x_single_prediction1)
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/579b1542-928d-4489-8da5-d1000bb8af96)
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/34dfb1e7-65d1-4709-8c34-47de540c875e)
+
 
 ## RESULT
-Include your result here.
+A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
+
+
