@@ -123,6 +123,7 @@ print(x_single_prediction1)
 ~~~
 ### OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
+![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/cffba715-d071-49e8-8b99-0a3ffc20ddbc)
 
 ![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/02e1ebe2-0ed4-4f27-b435-b73579674581)
 
