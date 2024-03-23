@@ -137,11 +137,13 @@ print(x_single_prediction1)
 
 
 ### Confusion Matrix
+![Screenshot (13)](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/463046c5-bc87-4dcd-8c62-8eac45192e62)
 
 ![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/579b1542-928d-4489-8da5-d1000bb8af96)
 
 
 ### New Sample Data Prediction
+![Screenshot (13)](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/0b376051-945f-4a41-ab1f-d84884fe73f7)
 
 ![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/0afccb00-691a-4a63-ae97-706cae55c282)
 
