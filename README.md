@@ -144,7 +144,7 @@ print(x_single_prediction1)
 
 ### New Sample Data Prediction
 ![Screenshot (13)](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/0b376051-945f-4a41-ab1f-d84884fe73f7)
-![Screenshot (14)](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/9dfe57f9-a8f3-4fc9-9e6c-6662d06c5a35)
+![ddddllll](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/505286eb-23c5-4039-ba8c-09e9582b21c8)
 
 ![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/0afccb00-691a-4a63-ae97-706cae55c282)
 
