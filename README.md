@@ -124,7 +124,7 @@ print(x_single_prediction1)
 ### OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/cffba715-d071-49e8-8b99-0a3ffc20ddbc)
-
+https://colab.research.google.com/drive/1QB8v7ILH26F7-JqJNGKTIlVGn2r_36Uo#scrollTo=3jL5shKJVIAh&line=1&uniqifier=1
 ![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/02e1ebe2-0ed4-4f27-b435-b73579674581)
 
 ![image](https://github.com/Revathi-Dayalan/mnist-classification/assets/96000574/008f1f36-522c-4aa0-be0a-ab85480ad0b8)
